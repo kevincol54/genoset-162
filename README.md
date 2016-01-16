@@ -2,8 +2,6 @@
 
 This script determines if you are a CYP2C9 poor metabolizer. CYP2C9 poor metabolizers require different dosages for drugs such as tamoxifen, warfarin, fluvastin, and many nonsteroidal anti-inflammatory agents such as aspirin, ibuprofen and naproxen, as per [gs162](http://www.snpedia.com/index.php/Gs162)
 
-*This does not increase your risk of getting cancer, however*
-
 ## Compatibility
 
 This genoset is to be used with DNA-JSON. See [dna2json](https://github.com/genomejs/dna2json) for more information.
